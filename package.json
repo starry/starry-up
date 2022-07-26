@@ -1,0 +1,19 @@
+{
+  "name": "starry-up",
+  "version": "1.0.1",
+  "description": "vscode plugins",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starry/starry-up.git"
+  },
+  "author": "starry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starry/starry-up/issues"
+  },
+  "homepage": "https://github.com/starry/starry-up#readme"
+}
